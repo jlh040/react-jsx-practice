@@ -11,5 +11,4 @@
 ### Technicalites:
 
 - To see what the HTML looks like on a webpage, you will need to serve the **index.html** files on a server.
-- If you have Python installed, first run `git clone https://github.com/jlh040/react-jsx-practice.git`, then cd into the react-jsx-practice folder, and then run `python3 -m http.server` and you can choose to view part-1, part-2, or part-3.
-
+- If you have Python installed, first run `git clone https://github.com/jlh040/react-jsx-practice.git`, then cd into the react-jsx-practice folder, and then run `python3 -m http.server` and you can choose to view part-1, part-2, or part-3 at **localhost:8000**
