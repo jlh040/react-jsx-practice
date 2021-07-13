@@ -6,7 +6,7 @@
 - In Part 1, I have created two basic components that also utilize *props*.
 - In Part 2, I have created a Tweet component that resembles the basic features of a Tweet.
 - In Part 3, I created a Person component which displays basic information about a person. I utilized conditional logic and looping in this component.
-- All of these components are rendered using a single *App* component.
+- Each of these components are rendered using a single *App* component.
 
 ### Technicalites:
 
