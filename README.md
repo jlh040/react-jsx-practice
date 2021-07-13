@@ -1,4 +1,4 @@
-# React-JSX Exercise
+# React JSX Exercise (Springboard exercise 39.2.10)
 
 ### Functionality:
 
